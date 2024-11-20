@@ -26,7 +26,7 @@ A demas se podran subir los mejores clips de tus jugadas para que todos los que 
 * **Actualizar consejos**: El administrador puede actualizar los consejos de la aplicación.
 
 ## Diagrama de casos de uso
-<img src="images/Diagrama LoL.drawio.png">
+<img src="diseño/images/Diagrama LoL.drawio.png">
 
 ### Actores
 |  Actor | Usuario sin registrar |
